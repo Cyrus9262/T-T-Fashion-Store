@@ -1,0 +1,45 @@
+/assets/images/customers/
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Composer
+/vendor/
+
+# Node
+node_modules/
+
+# Temporary files
+*.tmp
+*.bak
+
+# XAMPP cache
+xampp/apache/logs/
+xampp/mysql/data/
+
+# PHPUnit
+.phpunit.result.cache
+
+# Previous repository backup
+.git-backup/
+
+# Temporary database backup - review before publishing
+tt_fashion_store (1).sql
+
+# Database exports - review before publishing
+/database/*.sql
+
+# Previous repository history
+.git-backup/
+
+.env
